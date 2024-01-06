@@ -156,7 +156,38 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Jordan Lonpolidormor Mefujie - [Github] (https://github.com/jordanmefujie) / [LinkedIn] (https://linkedin.com/jordan-mefujie)
 
 Second part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection.
+
+
+New additions
+
+#api
+* __init__.py file
+
+
+## v1
+* __init__.py
+* app.py
+* stats
+
+
+### views
+* __init__.py
+* index.py
+* index.py
+* states.py
+* cities.py
+* amenities.py
+* users.py
+* places.py
+* places_reviews.py
+* places_amenities.py
+
+# MODIFICATIONS
+## models
+* base_model.py
+* user.py
