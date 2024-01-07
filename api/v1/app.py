@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """Main application module"""
 
-from flask import Flask
+from flask import Flask, jsonify
 from os import getenv
 from api.v1.views import app_views
 from models import storage
