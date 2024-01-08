@@ -1,4 +1,4 @@
-This file is a compilation of command lines and flags used to run the unittests.
+This document meticulously gathers command lines and flags for executing unittests, 
 
 
 The unittests have to be run from the directory this file is in.
